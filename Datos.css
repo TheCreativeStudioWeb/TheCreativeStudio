@@ -36,13 +36,6 @@ header nav ul li a {
 	background:#aafa93;
 	margin-bottom:20px;
 }
-aside {
-	width:30%;
-	background:#00f0ff;
-	float:left;
-	padding:20px;
-	box-sizing:border-box;
-	}
 footer {
 	background:#000;
 	color:#fff;
